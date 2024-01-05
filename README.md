@@ -1,2 +1,3 @@
 # PRODIGY_ML_02
-This project implements a simple yet effective linear regression model to predict the prices of houses based on key features such as square footage, number of bedrooms. The model is trained on a dataset containing historical information about house prices and associated features.
+This project focuses on the implementation of a K-means clustering algorithm to effectively group customers of a retail store based on their purchase history. The primary goal is to derive meaningful insights into customer behavior and preferences, enabling targeted marketing strategies and improved customer experiences.
+
